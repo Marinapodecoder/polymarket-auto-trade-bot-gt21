@@ -1,4 +1,4 @@
-# 
+# premium bot for Polymarket - slippage-control and automated-trade-execution offers the most advanced Polymarket bot, with slippage-control and automated-trade-execution. Ideal for
 
 
 
